@@ -47,5 +47,5 @@ Then, we use the VectorAssembler to combine all the feature columns into a singl
 
 ![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/4.PNG)
 
-
+#### We get label and Feature columns in our new Data Frame and then we start to apply various Machine Learning Algorithms in order to rank and find out the Best Model for our Data Set.
 
