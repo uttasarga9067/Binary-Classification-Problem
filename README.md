@@ -31,11 +31,11 @@ root
 
 #### 3. Correlation Matrix between the Numeric Columns: 
 
-![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/3.PNG)
+![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/3.png)
 
 #### 4. Diagramatic Representation of Correlation between Independent variables:
 
-![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/2.PNG)
+![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/2.png)
 
 
 
