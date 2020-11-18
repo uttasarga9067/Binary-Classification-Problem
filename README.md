@@ -24,3 +24,19 @@ root
  |-- previous: integer (nullable = true)
  |-- poutcome: string (nullable = true)
  |-- deposit: string (nullable = true)
+ 
+#### 2. Selecting the Numeric Columns of the Data Set:
+ 
+![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/1.PNG)
+
+#### 3. Correlation Matrix between the Numeric Columns: 
+
+![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/3.PNG)
+
+#### 4. Diagramatic Representation of Correlation between Independent variables:
+
+![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/2.PNG)
+
+
+
+
