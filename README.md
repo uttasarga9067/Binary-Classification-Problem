@@ -37,6 +37,15 @@ root
 
 ![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/2.png)
 
+#### 5. Preparing the Data Set for fitting in the Model.
+
+I used process of Category Indexing, One-Hot Encoding and Vector Assembler[This helps to merge multiple Columns into Vector Column]
+
+The follwing lines of code indexes each categorical column using the StringIndexer, then converts the indexed categories into one-hot encoded variables. 
+The resulting output has the binary vectors appended to the end of each row. We use the StringIndexer again to encode our labels to label indices. 
+Then, we use the VectorAssembler to combine all the feature columns into a single vector column.
+
+![ScreenShot](https://github.com/uttasarga9067/Binary-Classification-Problem/blob/main/4.PNG)
 
 
 
